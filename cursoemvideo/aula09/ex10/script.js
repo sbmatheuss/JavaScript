@@ -1,4 +1,4 @@
-function tbauada() {
+function tabuada() {
   let num = document.getElementById('txtN')
   let tab = document.getElementById('seltab')
   if(num.value.leght == 0){
